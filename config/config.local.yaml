@@ -1,0 +1,10 @@
+rabbitmq:
+  url: "amqp://admin:admin@rabbitmq:5672/"
+
+smtp:
+  enabled: false
+  url: "smtp-relay.brevo.com"
+  port: 587
+  username: "873079001@smtp-brevo.com"
+  password: "test"
+  from: "noreply@lgm8.com"
