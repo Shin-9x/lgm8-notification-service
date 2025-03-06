@@ -1,0 +1,1 @@
+- [ ] Buy a domain in order to send mail notification properly
